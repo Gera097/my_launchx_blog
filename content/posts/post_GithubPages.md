@@ -1,7 +1,7 @@
 ---
-title: "Mi Experiencia en LaunchX"
-date: 2022-03-01
-description: 'Cómo me la he pasado hasta ahora en el programa de LaunchX'
+title: "Mi primera página en GitHub Pages"
+date: 2022-04-25
+description: 'Cómo desplegar un repositorio en GitHub Pages'
 ---
 
 # Github Pages
