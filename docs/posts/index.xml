@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gera097.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi primera página en GitHub Pages</title>
+      <link>https://gera097.github.io/my_launchx_blog/posts/post_githubpages/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gera097.github.io/my_launchx_blog/posts/post_githubpages/</guid>
+      <description>Github Pages Github pages es la herramienta más sencilla y directa de desplegar una página web estática. Esto es, una página cuyo contenido es fijo.
+Para hacerlo basta con seguir los siguientes pasos:
+Cómo desplegar mi primera página web 1.- Crea un repositorio de Github Primero que nada, es necesario tener un repositorio de Github en el que tengamos versionado nuestra web.
+Este debe contener los archivos Html, CSS y JS necesarios.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollad@r de Software</title>
       <link>https://gera097.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Sat, 05 Mar 2022 18:16:21 -0600</pubDate>
@@ -24,18 +36,6 @@
       <guid>https://gera097.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Mi experiencia en LaunchX Hasta el momento, he aprendido muchísimas cosas en este programa, se nota mucho el empeño que los Mission Commanders tienen para preparar el contenido que nos brindan el cual me parece acertado y suficiente, como introducción, y adecuado para que con las prácticas nos quedemos con la espinita de seguir aprendiendo más a fondo las tecnologías que nos presentan.
 En el pasado ya había intentado aprender por mi cuenta sobre Desarrollo Web, pero únicamente me disponía a realizar tutoriales en Youtube sin verdaderamente un objetivo específico a conseguir, por lo que, al no aplicar el conocimiento que estaba adquiriendo, lo olvidaba rápidamente.</description>
-    </item>
-    
-    <item>
-      <title>Mi Experiencia en LaunchX</title>
-      <link>https://gera097.github.io/my_launchx_blog/posts/post_githubpages/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gera097.github.io/my_launchx_blog/posts/post_githubpages/</guid>
-      <description>Github Pages Github pages es la herramienta más sencilla y directa de desplegar una página web estática. Esto es, una página cuyo contenido es fijo.
-Para hacerlo basta con seguir los siguientes pasos:
-Cómo desplegar mi primera página web 1.- Crea un repositorio de Github Primero que nada, es necesario tener un repositorio de Github en el que tengamos versionado nuestra web.
-Este debe contener los archivos Html, CSS y JS necesarios.</description>
     </item>
     
   </channel>
